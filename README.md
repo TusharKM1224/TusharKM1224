@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 <p align="center">
-  <a href="https://www.github.com/TusharKM1224"><img height="150px" alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TusharKM1224&show_icons=true&hide_border=true&include_all_commits=true"></a>&nbsp;&nbsp;
+  <a href="https://www.github.com/TusharKM1224"><img height="150px" alt="Tushar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TusharKM1224&show_icons=true&hide_border=true&include_all_commits=true"></a>&nbsp;&nbsp;
   <a href="https://www.github.com/TusharKM1224"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKM1224&layout=compact&exclude_repo=github-readme-stats,TusharKM1224.github.io,TusharKM1224&hide_border=true"></a>
 </p>
 

@@ -1,11 +1,10 @@
-<h2 align="center">Hello there! My name is Kritik Agarwal. 👋🤓</h2>
-<p align="center">I am a 2nd Year undergraduate student at CMR University - School of Engineering & Technology, Bengaluru. I am interested in App Development, Competitive Programming,and many other things.
-In my spare time, I like to explore things which sparks my interest.</p>
+<h2 align="center">Hello there! My name is Tushar Kanti Mazumder. 👋🤓</h2>
+<p align="center">I am a 2nd Year undergraduate student at Garden City University, Bengaluru. I am interested in Coding.</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 <p align="center">
-  <a href="https://www.github.com/Kritik007"><img height="150px" alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kritik007&show_icons=true&hide_border=true&include_all_commits=true&theme=dark"></a>&nbsp;&nbsp;
-  <a href="https://www.github.com/Kritik007"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritik007&layout=compact&exclude_repo=github-readme-stats,Kritik007.github.io,Kritik007&hide_border=true&theme=dark"></a>
+  <a href="https://www.github.com/TusharKM1224"><img height="150px" alt="Agarwal-Kritik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TusharKM1224&show_icons=true&hide_border=true&include_all_commits=true"></a>&nbsp;&nbsp;
+  <a href="https://www.github.com/TusharKM1224"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKM1224&layout=compact&exclude_repo=github-readme-stats,TusharKM1224.github.io,TusharKM1224&hide_border=true"></a>
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
@@ -28,14 +27,8 @@ In my spare time, I like to explore things which sparks my interest.</p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.github.com/Kritik007"><img alt="Agarwal-Kritik | Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kritik-agarwal-395620145/"><img alt="Agarwal-Kritik | LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCfDHSnzsiwav9pN2X7cpvAQ/"><img alt="Agarwal-Kritik | Youtube" height="25px" src="https://www.flaticon.com/svg/static/icons/svg/733/733646.svg"></a>
+  <a href="https://www.github.com/TusharKM1224"><img alt="Tushar-Kanti-Mazumder | Github" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg"></a>&nbsp;&nbsp;
+<!---  <a href="https://www.linkedin.com/in/yourlinkedin/"><img alt="Agarwal-Kritik | LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg"></a>&nbsp;&nbsp;
+--->
 </p>
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-
-### Participations:
-<p align="center">
-<img height="100" width="auto" src="https://cd.foundation/wp-content/uploads/sites/78/2020/09/Logo-Sponsors-Light.svg" /><br>
-</p>

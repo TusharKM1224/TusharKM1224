@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Tushar Kanti Mazumder. 👋🤓</h2>
-<p align="center">I am a 2nd Year undergraduate student at Garden City University, Bengaluru. I am interested in Coding.</p>
+<p align="center">I am a 2nd Year post Graduate student at jain deemed-to-be University, Bengaluru. I am interested in Coding.</p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 <p align="center">

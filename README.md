@@ -1,49 +1,76 @@
 # 💫 About Me:
-Hello there! I'm **Tushar Kanti Mazumder** 👋🤓  
-A passionate and curious **AI Postgraduate Student** at **Jain (Deemed-to-be) University, Bengaluru**.  
-Currently in my 2nd year, I enjoy building cool projects and solving problems with **code**.  
-I'm interested in **Web Development**, **Machine Learning**, **Backend Engineering (Go, Python)**, and **Open Source**!  
+Hello there! I'm **Tushar Kanti Mazumder** 👋  
+A passionate **Backend Developer (Golang)** with a Master's degree in **Artificial Intelligence** from **Jain (Deemed-to-be) University, Bengaluru**.  
 
-- 🚀 Built several projects: video conferencing apps, CLI tools, parking management system, and more  
-- 🧠 Exploring the world of **multilingual AI**, **data structures**, and **backend systems**
-- 🐹 Currently learning **Go (Golang)** and working with **PostgreSQL**, **MongoDB**, and **Docker**
-- 🛠️ Using **WSL**, **Ubuntu**, and tools like **Git**, **TablePlus**, and **JitsiServer**
-- 💪 Fitness enthusiast — ask me about my no-equipment weekly workout plan!  
-- 🧪 Working on a **freelance marketplace MVP** with multilingual support (ETA: 2.5 months)
+I love building scalable systems, exploring new technologies, and solving real-world problems with **code**.
+
+🔭 **Currently:**  
+- 🚀 Building robust backend systems in Go  
+- 🧠 Exploring multilingual AI applications  
+- 💡 Contributing to open-source projects  
+
+🌱 **Interests:**  
+- Clean backend architecture  
+- Data structures & algorithms  
+- DevOps practices  
+
+⚡ **Fun fact:** I can do 50 push-ups in one set! (Fitness enthusiast 💪)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐹 Core Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://www.github.com/TusharKM1224"><img height="150px" alt="Tushar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TusharKM1224&show_icons=true&hide_border=true&include_all_commits=true"></a>&nbsp;&nbsp;
-  <a href="https://github.com/TusharKM1224?tab=repositories"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKM1224&layout=compact&exclude_repo=github-readme-stats,TusharKM1224.github.io,TusharKM1224&hide_border=true"></a>
-</p>
+
+<div align="center">
+  
+  ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharKM1224&show_icons=true&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKM1224&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats,TusharKM1224.github.io)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=TusharKM1224&theme=radical&hide_border=true)
+  
+</div>
 
 ---
 
-## 🧰 Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
-</p>
+## 🏆 Projects Highlights
+
+- **Video Conferencing App** - Real-time communication platform  
+- **Parking Management System** - IoT-based smart parking solution  
+- **CLI Productivity Tools** - Developer utilities for daily workflow  
+
+[🔍 View All Projects](https://github.com/TusharKM1224?tab=repositories)
 
 ---
 
-## 🔗 Connect with me:
-- GitHub: [Tushar-Kanti-Mazumder](https://github.com/Tushar-Kanti-Mazumder)
-- LinkedIn: *(Add your LinkedIn here if available)*  
-- Email: *(Optional – add your email if you want people to reach you directly)*
+## 📫 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kanti-mazumder-6019b1327)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TusharKM1224)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharmazumder011@gmail.com)
+  
+</div>
 
 ---
 
-_“Keep building. Keep learning. Keep growing.”_
+> _"Keep building. Keep learning. Keep growing."_  
+> — Tushar Kanti Mazumder
